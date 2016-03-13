@@ -65,7 +65,6 @@ public class ArticleDetailActivity extends ActionBarActivity
                         .alpha((state == ViewPager.SCROLL_STATE_IDLE) ? 1f : 0f)
                         .setDuration(300);
             }
-
             @Override
             public void onPageSelected(int position) {
                 if (mCursor != null) {
