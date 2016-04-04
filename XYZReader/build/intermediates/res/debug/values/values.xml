@@ -221,11 +221,19 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <!-- From: file:/Users/Pradeep/AndroidStudioProjects/xyzreader/XYZReader/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="appbar_height">212dp</dimen>
     <!-- From: file:/Users/Pradeep/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <dimen name="cardview_compat_inset_shadow">1dp</dimen>
     <dimen name="cardview_default_elevation">2dp</dimen>
     <dimen name="cardview_default_radius">2dp</dimen>
+    <!-- From: file:/Users/Pradeep/AndroidStudioProjects/xyzreader/XYZReader/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="default_padding_large">16dp</dimen>
+    <dimen name="default_padding_medium">8dp</dimen>
+    <dimen name="default_padding_small">4dp</dimen>
     <!-- From: file:/Users/Pradeep/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <dimen name="design_appbar_elevation">4dp</dimen>
@@ -293,6 +301,9 @@
     <!-- From: file:/Users/Pradeep/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
+    <!-- From: file:/Users/Pradeep/AndroidStudioProjects/xyzreader/XYZReader/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="linearlayout_fix">500dp</dimen>
     <!-- From: file:/Users/Pradeep/AndroidStudioProjects/xyzreader/XYZReader/src/main/res/values/macro_layout.xml -->
     <eat-comment/>
     <dimen name="list_side_margin">4dp</dimen>
@@ -302,6 +313,13 @@
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>
     <dimen name="notification_subtext_size">12dp</dimen>
+    <!-- From: file:/Users/Pradeep/AndroidStudioProjects/xyzreader/XYZReader/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="textsize_medium">18sp</dimen>
+    <dimen name="textsize_small">16sp</dimen>
+    <dimen name="toolbar_elevation">16dp</dimen>
+    <!-- From: file:/Users/Pradeep/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <eat-comment/>
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <!-- From: file:/Users/Pradeep/AndroidStudioProjects/xyzreader/XYZReader/src/main/res/values/dimens.xml -->
     <eat-comment/>
@@ -388,6 +406,8 @@
         <item name="toolbarStyle">@style/Theme.AppCompat.Light</item>
         <item name="windowActionBar">false</item>
         <item name="android:windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <!--<item name="android:fitsSystemWindows">true</item>-->
         <item name="android:windowBackground">@android:color/white</item>
         <item name="android:textColorPrimary">@android:color/white</item>
         <item name="android:textColorSecondary">@android:color/white</item>
