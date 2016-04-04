@@ -44,6 +44,13 @@
         <dex dex="/Users/Pradeep/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-468655dff57316946ffb86be7d8a1bb79939e324.jar" />
     </item>
     <item
+        jar="/Users/Pradeep/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.0/f1e24ac977505d1fdcabadaa5be1f41dc11c4286/butterknife-7.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f1e24ac977505d1fdcabadaa5be1f41dc11c4286">
+        <dex dex="/Users/Pradeep/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/butterknife-7.0.0-c11fae1f5e188307202b27d088d2ba9be7c0c156.jar" />
+    </item>
+    <item
         jar="/Users/Pradeep/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/classes.jar"
         jumboMode="false"
         revision="22.0.1"
@@ -77,6 +84,13 @@
         revision="22.0.1"
         sha1="a0c456a59e1edab84702b48a626705aa1d830ccc">
         <dex dex="/Users/Pradeep/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-5f3c5d078ad0d44e79f605a9222416285602721e.jar" />
+    </item>
+    <item
+        jar="/Users/Pradeep/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/Users/Pradeep/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/picasso-2.3.2-3793388dd7d73276bddb8f8152f0adccb417206a.jar" />
     </item>
     <item
         jar="/Users/Pradeep/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/classes.jar"
